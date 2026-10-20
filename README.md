@@ -25,6 +25,10 @@ Summary:
 
 A recovery potential assessment is conducted for Lake Sturgeon in Canada. Matrix models are created and parameterized for Lake Sturgeon population across DUs in Canada. Elasticity analysis is conducted to estimate allowable harm. MVP analysis is conducted to estimate recovery targets for abundance and habitat. Recovery simulations are conducted to estimate time frames for population recovery. 
 
+Note:
+
+Simulations can take considerable time to execute and Results files were too large to include in this repository. 
+
 Contact:
 
 Adam van der Lee
