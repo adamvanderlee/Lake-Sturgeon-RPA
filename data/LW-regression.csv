@@ -1,0 +1,36 @@
+a,b,n,Sex,Length_range_mm,Weight_range_g,Location,Habitat,DU,Source
+6.89E-07,3.3065,50015,Mixed,Oct-00,0-90000,"Winnebago Lake, Wisconsin",Lake,4,Bruch 2008
+0.00000147,3.1872,289,Juvenile,<711,<300,"Winnebago Lake, Wisconsin",Lake,4,Bruch 2008
+0.000001024,3.2453,,Male,520-960,50-9000,"Winnebago Lake, Wisconsin",Lake,4,Bruch 2008
+0.000000288,3.4223,,Female,711-2100,1000-90000,"Winnebago Lake, Wisconsin",Lake,4,Bruch 2008
+0.00004149,2.73821,82,mixed,750-1775,2510-25120,"White River, ON",River,4,Ecclestone 2012
+0.000004753,3.033,271,mixed,830-1660,?,"Rainy Lake, MI/ON",Lake,4,Adam et al. 2006
+8.57E-07,3.286,221,Mixed,?,?,North Saskatchewan River,River,2,Haugen 1969 in Alberta Lake Sturgeon Recovery team 2012
+0.00000104,3.247,203,Mixed,?,?,North Saskatchewan River,River,2,RL and L 1991 in  Alberta Lake Sturgeon Recovery team 2012
+4.32E-07,3.348,510,mixed,?,?,North Saskatchewan River,River,2,Korth unpubl 200 data in   Alberta Lake Sturgeon Recovery team 2012
+0.00000141,3.17,1261,Juvenile,180-900,?-3500,Winnipeg River (river Section 1),River,2,Barth 2011
+0.00000166,3.15,1466,Juvenile,190-1100,?-5000,Winnipeg River (river Section 2),River,2,Barth 2011
+0.00000123,3.21,414,Juvenile,300-800,?-2000,Winnipeg River (river Section 3),River,2,Barth 2011
+0.000000427,3.4,208,Juvenile,125-900,?-4500,Winnipeg River (river Section 4-7),River,2,Barth 2011
+0.000002,3.1457,192,Mixed,800-1750,200-3800,St. Mary’s River,River,4,Bauman et al. 2011
+4.79E-07,3.365,1074,Mixed,250-2000,30-100000,St. Clair River/Lake,Both,4,Craig et al. 2005
+0.000001042,3.254,101,Male,?,?,St. Clair River/Lake,Both,4,Craig et al. 2005
+4.28E-07,3.385,16,Female,?,?,St. Clair River/Lake,Both,4,Craig et al. 2005
+4.62E-07,3.37,957,Unknown,?,?,St. Clair River/Lake,Both,4,Craig et al. 2005
+0.000002,3.11,47,Stocked,200-850,50-2800,St. Regis River NY,River,4,Dittman et al. 2015
+0.0000008,3.27,29,Stocked,200-850,50-3200,St. Regis River NY,River,4,Dittman et al. 2015
+0.000000988,3.24735,4265,Mixed,?,?,Lac des Deux Montagnes,Lake,4,Fortin et al. 1992
+0.000000545,3.35695,1648,Mixed,?,?,Lac St. Louis,Lake,4,Fortin et al. 1992
+0.000000993,3.27363,1791,Mixed,?,?,Lac St. Pierre,Lake,4,Fortin et al. 1992
+0.000000246,3.446,252,mixed,,,"Muskegon River/Lake, MI",Both,4,Harris et al. 2017
+0.0000001,3.5564,67,Mixed,311-1573,20-35900,Niagara River NY,River,4,Hughes et al. 2005
+0.00000249,3.16,?,Female,600-1400,200-20000,Synthesized data,Both,2,COSEWIC 2017
+0.00000681,3.07,?,Female,1100-1600,15000-60000,Synthesized data,Both,2,COSEWIC 2017
+0.00000008,3.63,163,Juvenile,410-1100,500-9500,"Oneida Lake, NY",Lake,4,Jackson et al. 2002
+0.00000467,3.07,1177,Mixed/FL,145-1420,20-19730,Groundhog and Mattagami Rivers,River,3,Noakes et al. 1999
+0.000000814,3.2983,204,Mixed,1120-1870,7000-59000,"Black Creek River, MI",River,4,Smith and Baker 2005
+0.000212,2.5592,,Female,1400-1870,22000-59000,"Black Creek River, MI",River,4,Smith and Baker 2005
+0.0000362,2.7719,,Males,1090-1750,7000-38000,"Black Creek River, MI",River,4,Smith and Baker 2005
+0.000002068,3.204,361,Male,510-1425 FL,1500-245720,"Nelson River, MB",River,2,Sunde 1961
+0.000007751,3.002,372,Female,560-1775 FL,1585-50348,"Nelson River, MB",River,2,Sunde 1961
+0.000001281,3.202,200,Mixed,180-1400,50-14000,"Grasse River,  NY",River,4,Trested & Isely 2011

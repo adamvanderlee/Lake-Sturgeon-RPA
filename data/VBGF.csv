@@ -1,0 +1,57 @@
+Linf,K,t0,L0,L25,n,Sex,Length_min,Length_max,Age_min,Age_max,Habitat,Location,DU,Latitude,Longitude,Fortin,Power,Source
+1403.8,0.11,-0.56,83.86453492,1319.419349,237,Mixed,830,1660,8,59,River,"Rainy Lake, MI/ON",2,48.6369,93.0314,0,0,Adam et al. 2006
+1675.02278,0.050175782,-0.122332315,10.25000006,1200.148838,,Mixed,137.6,1742.3,1,64,Lake,Lake Michigan,4,44,87,0,0,Baker 1980 in Block 2001/my fit
+1308,0.095,0,0,1186.337048,,Mixed,25,1250,1,34,Lake,Round Lake,2,50.6202,95.7717,0,0,Block 2001
+1138.5,0.087,0,0,1009.157117,,Mixed,50,1350,4,72,River,Slave Falls-Point du Bios,2,50.2267,95.588,0,0,Block 2001
+1664,0.052,-4.527,349.0214649,1305.626542,4248,Male,107,1680,13,69,Lake,Lake Winnebago,4,44,88.4,0,0,Bruch 2008
+1889,0.045,-2.482,199.626773,1340.540814,5916,Female,108,1940,13,96,Lake,Lake Winnebago,4,44,88.4,0,0,Bruch 2008
+1979.15,0.038,-1.10169,81.14518018,1245.113673,,Mixed,,,,,River,St. Francis River,4,45.8986,71.1578,0,1,Cuerrier 1966 in Power and McKinley 1997
+1105.771216,0.115028883,-0.080960346,10.24999997,1044.01075,,Mixed,412.5,1232.5,3,23,Lake,Lake St. Francis,4,45.1667,74.3667,1,1,Cuerrier and Roussow 1951 in Block 2001/my fit
+2088.75,0.031,-9.386,527.3235399,1369.394926,79,,750,1775,8,36,River,"White River, ON",4,48.5627,86.237,0,0,Ecclestone 2012
+,,,0,1254,,,,,,,River,St. Lawrence River (Gentilly),4,46.6337,71.93,1,0,Fortin et al. 1991 in Fortin et al. 1996
+,,,0,1177,,,,,,,Lake,"Baskatong Reservoir, QC",4,46.8,75.8,1,0,Fortin et al. 1992 in Fortin et al. 1996
+,,,0,1040,,,,,,,River,"Bell River, QC",3,49,77.5,1,0,Fortin et al. 1992 in Fortin et al. 1996
+,,,0,659,,,,,,,River,Eastmain-Opinaca Rivers,3,52.2396,78.0059,1,0,Fortin et al. 1992 in Fortin et al. 1996
+,,,0,1078,,,,,,,River,"Harricana, River",3,50.5274,79.1148,1,0,Fortin et al. 1992 in Fortin et al. 1996
+,,,0,1118,,,,,,,Lake,Lac Gueguen,4,48.1009,77.2266,1,0,Fortin et al. 1992 in Fortin et al. 1996
+,,,0,989,,,,,,,River,Lower Ottawa River,4,46,77.3,1,0,Fortin et al. 1992 in Fortin et al. 1996
+,,,0,1023,,,,,,,Lake,"Megiscan, Lake E",3,48.6,75.85,1,0,Fortin et al. 1992 in Fortin et al. 1996
+,,,0,1003,,,,,,,Lake,"Megiscan, Lake W.",3,48.559,75.92,1,0,Fortin et al. 1992 in Fortin et al. 1996
+,,,0,1040,,,,,,,River,"Nottaway, River",3,50.05,77.469,1,0,Fortin et al. 1992 in Fortin et al. 1996
+,,,0,1058,,,,,,,River,"Rupert, River",3,50.95,73.7,1,0,Fortin et al. 1992 in Fortin et al. 1996
+,,,0,1072,,,,,,,Lake,Lake Temiscamingue,4,47.3333,79.5,1,0,Fortin et al. 1992 in Fortin et al. 1996
+1120.836,0.1289,-0.07126,10.24820363,1076.573195,,Mixed,355.4,1164.6,2,25,Lake,Lac Des Duex Montangues,4,45.45,74,0,1,Fortin et al. 1993/my fit
+1338.796,0.0984,-0.07811,10.25057464,1225.291787,,Mixed,452.1,1369.1,6,34,Lake,Lac St. Louis,4,45.4014,73.8142,1,1,Fortin et al. 1993/my fit
+1349.97,0.09146,-0.08334,10.2507279,1213.825697,,Mixed,633.6,1313.1,7,23,Lake,Lac St. Pierre,4,46.2042,72.8322,1,1,Fortin et al. 1993/my fit
+1569.96,0.044,-1.181751,79.54724656,1073.844692,,Mixed,,,,,Lake,Lake Nipigon,4,49.8333,88.5,1,1,Harkness 1923 in Power and McKinley 1997
+1807.19,0.093,-0.902,145.4135966,1644.69578,180,Mixed,250,1750,0,35,River,"Muskegon River/Lake, MI",4,43.2324,86.2945,0,0,Harris et al. 2017
+1404.538863,0.094086541,-0.077848838,10.25000004,1271.854078,,Mixed,297.5,1587.5,1,65,River,"Saskatchewan River, SK",2,50.0469,110.6659,0,0,Haugen 1969 in Block 2001/my fit
+1289,0.061,-3,215.5618473,1055.397255,,Mixed,40,1000,2,46,River,"Ottawa River, harvested",4,46.0667,76.7584,0,0,Haxton and Findlay 2008
+1473,0.066,-0.85,80.36012378,1205.543639,,Mixed,400,1400,4,30,Lake,"Ottawa River, impounded",4,46.0667,76.7584,0,0,Haxton and Findlay 2008
+,,,0,1517.168,61,Mixed,300,1600,1,23,River,"Lower Niagara River, NY",4,43.20835,79.05835,0,0,Hughes et al. 2005
+,,,0,1262,,,,,,,River,Upper St. Lawrence River,4,44.54,75.75,1,0,Joliff and Eckert 1971 in Fortin et al. 1996 
+,,,0,1491,,,,,,,Lake,Lake Wisconsin,4,43.31,89.7247,1,0,Larson 1988  in Fortin et al. 1996
+,,,0,1166,,,,,,,River,St. Lawrence River (Quebec City),4,46.805,71.1996,1,0,Magnin 1963  in Fortin et al. 1996
+1479.49,0.04,-3.338285,184.9362595,1003.250293,,Mixed,,,,,Lake,Lake Waswanipi,3,49.5519,76.45,0,1,Magnin 1965 in Power and McKinley 1997
+926.2046131,0.05932805,-0.187573336,10.24999998,718.3652347,,Mixed,660.2,876.7,20,35,River,La Grande River,3,53.8333,79.0667,1,1,Magnin 1977 in Block 2001/my fit
+,,,0,1143,,,,,,,Lake,Lac Des Duex Montangues,4,45.45,74,1,0,Mongeau et al. 1982  in Fortin et al. 1996
+1421,0.085,-0.0306,3.691218489,1251.726605,NA,Mixed,NA,NA,NA,NA,River,Lake of the Woods/ Rainy River,2,49.2497,94.7508,1,1,Mosindy 1987 in  Adam et al. 2006
+1561.901,0.043,4.901,-366.4142016,903.7713502,,Mixed,155,1580,1,69,River,Groundhog and Mattagami Rivers,3,49.5,81.9678,0,0,Noakes et al. 1999
+1326.25179,0.069764797,-0.111210351,10.25000004,1096.216311,,Mixed,538,1430,9,49,River,Mattagami River,3,48.0128,81.5578,1,1,Nowak and Jessop 1987 in Block 2001/my fit
+,,,0,1383,,,,,,,Lake,Lake Nipissing,4,46.27,79.79,1,0,OMNR  in Fortin et al. 1996
+1382.499059,0.036279683,-0.205121173,10.25000011,828.4715962,,Mixed,282.4,1513.1,2,48,River,Kenogami River,3,51.1061,84.4817,1,1,OMNR 1987 in Block 2001/my fit
+1583.6803,0.047752148,-0.135979262,10.25000003,1106.826606,,Mixed,860,1767,12,87,Lake,Sipiwesk Lake,2,55.0883,97.5753,0,1,Patalas 1988 in Block 2001/my fit
+2028,0.031,-6.5,370.1027447,1264.200466,,Mixed,365,1510,1,30,Lake,"Goulais Bay, Lake Superior",4,46.7117,84.4486,0,0,Pratt et al. 2014
+1534.43752,0.059283578,-0.113056319,10.25000003,1188.199199,,Mixed,137.6,1490.1,1,46,Lake,Menominee River,4,45.0947,87.5912,1,1,Priegel 1973 in Block 2001/my fit
+1852.07,0.055,-0.1460395,14.81656147,1387.539583,,Mixed,,,,,Lake,"Lake Poygan, WI",4,44.15,88.7503,1,1,Priegel and Wirth 1978 in Power and McKinley 1997
+1423.180274,0.061640285,-0.117264878,10.24999994,1120.579638,,Mixed,155.3,1452.5,1,50,Lake,Lake Winnebago,4,44,88.4,0,0,Probst and Cooper 1955 in Block 2001/my fit
+1335.889063,0.087993009,-0.087534,10.2499999,1188.978396,,Mixed,194.4,1563.4,1,51,River,"Saskatchewan  River, AB",2,53.9568,102.3888,0,1,Royer et al. 1968 in Block 2001/my fit
+1395.63,0.064,-1.387988,118.6285734,1137.807858,,Mixed,,,,,River,Mattagami River,3,48.0128,81.5578,0,1,RS Mckinley in Power and McKinley 1997
+1424.713141,0.056884235,-0.126932101,10.25000002,1083.536802,,Mixed,630.4,1387,9,41,River,Flambeau River,4,45.2983,91.2394,1,0,Scholl 1986 in Block 2001/my fit
+1768.9,0.091,0.3546,-58.01085749,1581.099212,,Mixed,1120,1870,12,70,River,"Upper Black River, MI",4,45.4582,84.2679,0,0,Smith and Baker 2005
+1319.55803,0.057430831,-0.135782094,10.25,1008.031882,,Mixed,825.3,1362.7,14,70,Lake,Sipiwesk Lake,2,55.0883,97.5753,0,1,Sopuck 1987 in Block 2001/my fit
+1373.553,0.093232,-0.0804,10.25745887,1241.016214,,Female,187,1570,1,62,River,Nelson River,2,55,102,1,0,Sunde 1961/my fit
+1128.543682,0.077986712,-0.11699428,10.25000007,969.3866228,,Mixed,371.3,1119,1,36,River,Moose River,3,51.3506,80.3992,1,0,Threader 1981 in Block 2001/my fit
+1913,0.0944,-9.5691,1137.812505,1839.806624,195,Mixed,400,1400,3,32,River,"Grasse River, NY",4,44.9868,74.7706,0,0,Trested & Isely 2011
+,,,0,1015,,,,,,,River,Saskatchewan River,2,53.6,100.75,1,0,Wallace 1991  in Fortin et al. 1996
+1212.553,0.07269,-0.1168,10.25000007,1017.212705,533,Mixed,301,1562,3,34,River,Kettle River MN,4,46.2318,92.8501,0,0,Dieterman et al. 2010
